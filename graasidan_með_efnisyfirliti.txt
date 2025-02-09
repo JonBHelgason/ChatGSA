@@ -74,19 +74,20 @@ Við mælum einnig með eftirfarandi:
 Tillaga A að matseðli (Hugsað fyrir þá sem vilja léttast)
 
 	Morgunmatur
-		1 prótein
-		1 ávöxtur
+		1 prótein skammtur 
+		1 ávöxtur skammtur 
 
 	Hádegismatur
-		1 prótein
-		1 grænmeti
-		Kaffi
-		Fingrasalat (án dressingar)
+		1 prótein skammtur 
+		½ ferskt grænmeti skammtur 
+  ½ eldað grænmeti skammtur 
+		½ viðbætt fita skammtur 
 
 	Kvöldmatur
-		1 prótein
-		1 grænmeti
-		Salat
+		1 prótein skammtur 
+		1½ ferkst grænmeti skammtur 
+  1 eldað grænmeti skammtur 
+	 1 viðbættur fitur skammtur
 
 Mikilvægt!
 	⚠️ Ekki borða sykurlaust sælgæti eða matartegundir sem ekki eru tilgreindar á matseðlinum.
@@ -106,7 +107,7 @@ Mikilvægt!
 
 TILLÖGUR FYRIR ÁÆTLUN „A“ - FRAMHALD
 	Próteinum má blanda saman (t.d. salat hrísins).
-	Grænmetistegundum má blanda saman. Ef notað er grænmeti úr ½ bolla listanum skal allur grænmetisskammturinn miðast við ½ bolla.
+	Grænmetistegundum má blanda saman. Ef notað er grænmeti úr 120gr  listanum skal allur grænmetisskammturinn miðast við 120 gr.
 	Sykur verður að vera í fimmta sæti eða neðar í innihaldslýsingu, ekki á meðal fjögurra fyrstu setanna.
 	Leitaðu eftir kommum á milli hráefna. (Dæmi: Grænmetisolía, vatn, salt, krydd, sykur).
 	Kannaðu sykurinnihald vandlega í eftirfarandi:
